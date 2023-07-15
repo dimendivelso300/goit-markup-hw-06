@@ -214,6 +214,7 @@ h1{
     margin-left: 448px;
     border: 1px solid rgba(0, 0, 0, 0.10);
     background: var(--white-color);
+    cursor: pointer;
 }
 .btn-close:hover{
     border: 1px solid var(--accent-color);
